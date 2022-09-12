@@ -2,6 +2,6 @@
   "buildCommand": "npm run build",
   "devCommand": "vite --port $PORT",
   "installCommand": "npm install",
-  "outputDirectory": "dist",
+  "outputDirectory": ".next",
   "trailingSlash": false
 }
