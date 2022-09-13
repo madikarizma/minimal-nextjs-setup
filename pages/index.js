@@ -3,5 +3,5 @@ export default function Home() {
     <div>
       minimal-nextjs-setup
     </div>
-  )
+  );
 }
